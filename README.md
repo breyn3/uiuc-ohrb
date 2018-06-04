@@ -10,7 +10,7 @@ Atashgahi-et-al.-XenobioticReview2018/
           |------- "genome_results_EC_hits.txt" # file with hits for genes searched in IMG/ER.  
           |------- "genomecart_export.txt" # List of genomes used. Upload to IMG/ER as genome cart.  
           |------- "genome_taxonomy.txt" # Metadata on genomes used here.  
-          |------- "dehalo_genes.tab" # list of selected genes searched in IMG for the selected genomes. Upload this in                                       function cart.
+          |------- "dehalo_genes.tab" # list of selected genes searched in IMG for the selected genomes. Upload this in function cart.
                         
 |------- Human_gut_metagenomes/ # contains list of human gut metagenomes.  
           |------- "metagenomes_EC_counts_254.txt" # file with hits for genes searched in IMG/ER.
