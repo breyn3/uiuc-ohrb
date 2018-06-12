@@ -1,0 +1,677 @@
+genome	domain	taxon_name
+637000163	Archaea	Methanosphaera stadtmanae DSM 3091
+643886144	Archaea	Methanobrevibacter smithii DSM 2375
+643886215	Archaea	"Methanobrevibacter smithii F1, DSM 2374"
+2518645582	Archaea	Methanomassiliicoccus luminyensis B10
+2534682115	Archaea	Halorubrum lipolyticum DSM 21995
+637000024	Bacteria	Bacteroides fragilis NCTC 9343
+637000025	Bacteria	Bacteroides fragilis YCH46
+637000026	Bacteria	Bacteroides thetaiotaomicron VPI-5482
+637000028	Bacteria	Bartonella quintana Toulouse
+637000031	Bacteria	Bifidobacterium longum NCC2705
+637000055	Bacteria	Campylobacter jejuni jejuni NCTC 11168
+637000101	Bacteria	Enterococcus faecalis V583
+637000104	Bacteria	Escherichia coli sv. O6:K15:H31 536
+637000107	Bacteria	Escherichia coli O157:H7 EDL933 (EHEC)
+637000108	Bacteria	Escherichia coli O157:H7 Sakai (EHEC)
+637000109	Bacteria	Escherichia coli UTI89 (UPEC)
+637000132	Bacteria	Helicobacter pylori 26695
+637000133	Bacteria	Helicobacter pylori HPAG1
+637000134	Bacteria	Helicobacter pylori J99
+637000138	Bacteria	Lactobacillus acidophilus NCFM
+637000139	Bacteria	Lactobacillus delbrueckii bulgaricus sv. E Lb14
+637000140	Bacteria	Lactobacillus johnsonii NCC 533
+637000143	Bacteria	Lactobacillus salivarius salivarius UCC118
+637000154	Bacteria	Listeria monocytogenes sv. 4b F2365
+637000209	Bacteria	Porphyromonas gingivalis W83
+637000333	Bacteria	Vibrio cholerae sv. O1 bv. El Tor N16961
+638341053	Bacteria	Campylobacter jejuni jejuni HB93-13
+638341055	Bacteria	Campylobacter upsaliensis RM3195
+638341085	Bacteria	Escherichia coli O148:H28 B7A (CS6:LT+:ST+)(ETEC)
+638341086	Bacteria	Escherichia coli O111:H9 E110019 (EPEC)
+638341089	Bacteria	Escherichia coli O139:H28 F11 (ETEC)
+638341118	Bacteria	Listeria monocytogenes 4b H7858
+638341238	Bacteria	Yersinia bercovieri ATCC 43970
+639633010	Bacteria	Bifidobacterium adolescentis ATCC 15703
+639633017	Bacteria	Campylobacter jejuni jejuni sv. Penner 23/36 81-176
+639633028	Bacteria	Lactobacillus casei ATCC 334
+639633030	Bacteria	Lactobacillus gasseri ATCC 33323
+640427118	Bacteria	Lactobacillus reuteri DSM 20016
+640612206	Bacteria	Collinsella aerofaciens ATCC 25986
+640753008	Bacteria	Bacteroides vulgatus ATCC 8482
+640753009	Bacteria	Campylobacter concisus 13826
+640753010	Bacteria	Campylobacter curvus 525.92
+640753011	Bacteria	Campylobacter hominis ATCC BAA-381
+640753015	Bacteria	Citrobacter koseri ATCC BAA-895
+640753024	Bacteria	Escherichia coli sv. O139:H28 E24377A (ETEC)
+640753025	Bacteria	Escherichia coli sv. O9 HS
+640753039	Bacteria	Parabacteroides distasonis ATCC 8503
+640753060	Bacteria	Yersinia pseudotuberculosis sv. O:1b IP 31758
+640963004	Bacteria	Vibrio cholerae sv. O14 MZO-2
+640963014	Bacteria	Pseudoflavonifractor capillosus ATCC 29799
+640963015	Bacteria	Bifidobacterium adolescentis L2-32
+640963016	Bacteria	Parabacteroides merdae ATCC 43184
+640963022	Bacteria	Eubacterium ventriosum ATCC 27560
+640963023	Bacteria	Bacteroides caccae ATCC 43185
+640963024	Bacteria	Blautia obeum ATCC 29174
+640963025	Bacteria	Ruminococcus torques ATCC 27756
+640963041	Bacteria	Campylobacter jejuni jejuni CG8486
+640963046	Bacteria	Dorea longicatena DSM 13814
+640963047	Bacteria	Listeria monocytogenes sv. 4b HPB2262
+640963057	Bacteria	Ruminococcus gnavus ATCC 29149
+640963059	Bacteria	Listeria monocytogenes FSL N1-017
+640963060	Bacteria	Listeria monocytogenes sv. 1/2a1 FSL N3-165
+641380420	Bacteria	Faecalibacterium prausnitzii M21/2
+641380421	Bacteria	Parvimonas micra ATCC 33270
+641380422	Bacteria	Coprococcus eutactus ATCC 27759
+641380427	Bacteria	Clostridium leptum DSM 753
+641380428	Bacteria	Clostridium bolteae ATCC BAA-613
+641380446	Bacteria	Absiella dolichum DSM 3991
+641380447	Bacteria	Bacteroides uniformis ATCC 8492
+641380448	Bacteria	Clostridium sp. L2-50
+641380449	Bacteria	Bacteroides ovatus ATCC 8483
+641522623	Bacteria	Escherichia coli C ATCC 8739
+641522625	Bacteria	Escherichia coli DH10B
+641522627	Bacteria	Finegoldia magna ATCC 29328
+641522633	Bacteria	Lactobacillus fermentum IFO 3956
+641736113	Bacteria	Intestinibacter bartlettii DSM 16795
+641736122	Bacteria	Burkholderia oklahomensis EO147
+641736133	Bacteria	Dorea formicigenerans ATCC 27755
+641736163	Bacteria	Escherichia albertii TW07627
+641736169	Bacteria	Clostridium spiroforme DSM 1552
+641736171	Bacteria	Streptococcus infantarius infantarius ATCC BAA-102
+641736172	Bacteria	Providencia stuartii ATCC 25827
+641736184	Bacteria	Eubacterium siraeum DSM 15702
+641736189	Bacteria	Bifidobacterium dentium ATCC 27678
+641736193	Bacteria	Anaerofustis stercorihominis DSM 17244
+641736196	Bacteria	Bacteroides stercoris ATCC 43183
+641736197	Bacteria	Clostridium scindens ATCC 35704
+641736198	Bacteria	Erysipelatoclostridium ramosum DSM 1402
+641736205	Bacteria	Alistipes putredinis DSM 17216
+641736226	Bacteria	Escherichia coli O157:H7 EC508
+641736227	Bacteria	Anaerostipes caccae DSM 14662
+641736235	Bacteria	Bifidobacterium animalis lactis HN019
+641736262	Bacteria	Listeria monocytogenes FSL J2-071
+641736263	Bacteria	Listeria monocytogenes sv. 1/2b FSL J2-064
+641736270	Bacteria	Clostridium sp. SS2/1
+641736271	Bacteria	Anaerotruncus colihominis DSM 17241
+642555104	Bacteria	Akkermansia muciniphila ATCC BAA-835
+642555107	Bacteria	Bifidobacterium longum DJO10A
+642555131	Bacteria	Helicobacter pylori Shi470
+642555134	Bacteria	Lactobacillus casei casei BL23
+642555135	Bacteria	Lactobacillus reuteri JCM 1112
+642555148	Bacteria	Porphyromonas gingivalis ATCC 33277
+642791604	Bacteria	Ruminococcus lactaris ATCC 29176
+642791613	Bacteria	"Bacteroides coprocola M16, DSM 17136"
+642791615	Bacteria	Clostridium sporogenes ATCC 15579
+642791621	Bacteria	"Bacteroides intestinalis 341, DSM 17393"
+642979312	Bacteria	"Bifidobacterium catenulatum DSM 16992, JCM 1194, LMG 11043"
+642979316	Bacteria	Desulfovibrio piger ATCC 29098
+642979317	Bacteria	Providencia alcalifaciens sv. 019:H2 DSM 30120
+642979318	Bacteria	Providencia rustigianii DSM 4541
+642979321	Bacteria	Collinsella stercoris DSM 13279
+642979323	Bacteria	Anaerococcus hydrogenalis DSM 7454
+642979325	Bacteria	Helicobacter pylori HPKX_438_AG0C1
+642979330	Bacteria	Helicobacter pylori 98-10
+642979331	Bacteria	Helicobacter pylori B128
+642979332	Bacteria	Helicobacter pylori HPKX_438_CA4C1
+642979334	Bacteria	Bacteroides eggerthii DSM 20697
+642979337	Bacteria	Bacteroides pectinophilus ATCC 43243
+642979351	Bacteria	"Bacteroides plebeius M12, DSM 17135"
+642979358	Bacteria	Parabacteroides johnsonii DSM 18315
+642979359	Bacteria	Clostridium hylemonae DSM 15053
+642979360	Bacteria	Holdemanella biformis DSM 3989
+642979366	Bacteria	Lactobacillus rhamnosus HN001
+642979369	Bacteria	Tyzzerella nexilis DSM 1787
+642979370	Bacteria	Bacteroides dorei DSM 17855
+642979371	Bacteria	Clostridium hiranonis TO-931 DSM 13275
+643348510	Bacteria	Bacillus cereus AH187 (F4810/72)
+643348513	Bacteria	Bacillus cereus G9842
+643348515	Bacteria	Bifidobacterium animalis lactis AD011
+643348516	Bacteria	Bifidobacterium longum sv. Infantis
+643348545	Bacteria	Escherichia coli O81 ED1a
+643348551	Bacteria	Escherichia coli SE11
+643348558	Bacteria	Helicobacter pylori G27
+643348559	Bacteria	Helicobacter pylori P12
+643348561	Bacteria	Listeria monocytogenes sv. 4a HCC23
+643692022	Bacteria	"Escherichia fergusonii UMN026, ATCC 35469"
+643692026	Bacteria	Laribacter hongkongensis HLHK9
+643886006	Bacteria	Roseburia inulinivorans DSM 16841
+643886007	Bacteria	Clostridiales sp. 1_7_47FAA
+643886014	Bacteria	Lactobacillus acidophilus ATCC 4796
+643886040	Bacteria	Bifidobacterium bifidum NCIMB 41171
+643886044	Bacteria	Lactobacillus hilgardii ATCC 8290
+643886047	Bacteria	Lactobacillus ultunensis DSM 16047
+643886048	Bacteria	"Lactobacillus salivarius HO66, ATCC 11741"
+643886051	Bacteria	Lactobacillus paracasei ATCC 25302
+643886056	Bacteria	Acidaminococcus sp. D21
+643886059	Bacteria	Lactobacillus brevis gravesensis ATCC 27305
+643886061	Bacteria	Lactobacillus fermentum ATCC 14931
+643886062	Bacteria	Lactobacillus buchneri ATCC 11577
+643886064	Bacteria	Enterococcus faecalis TX1322
+643886065	Bacteria	Enterococcus faecalis TX0104
+643886102	Bacteria	"Bifidobacterium breve DSM 20213, JCM 1192"
+643886103	Bacteria	"Holdemania filiformis VPI J1-31B-1, DSM 12042"
+643886109	Bacteria	Leuconostoc mesenteroides cremoris ATCC 19254
+643886110	Bacteria	Catenibacterium mitsuokai DSM 15897
+643886111	Bacteria	Bacteroides cellulosilyticus DSM 14838
+643886112	Bacteria	Clostridium asparagiforme DSM 15981
+643886116	Bacteria	Coprococcus comes ATCC 27758
+643886117	Bacteria	Proteus penneri ATCC 35198
+643886120	Bacteria	Enterococcus faecium TX1330
+643886127	Bacteria	Lactobacillus rhamnosus LMS2-1
+643886139	Bacteria	Lactobacillus paracasei 8700:2
+643886140	Bacteria	Bifidobacterium longum longum ATCC 55813
+643886141	Bacteria	Helicobacter cinaedi CCUG 18818
+643886197	Bacteria	"Bacteroides coprophilus DSM 18228, JCM 13818"
+643886199	Bacteria	Blautia hydrogenotrophica DSM 10507
+643886203	Bacteria	Eubacterium hallii DSM 3353
+643886206	Bacteria	"Clostridium methylpentosum R2, DSM 5476"
+643886213	Bacteria	"Helicobacter canadensis MIT 98-5491, ATCC 700968"
+643886216	Bacteria	Bifidobacterium longum longum CCUG 52486
+643886218	Bacteria	Helicobacter pullorum MIT 98-5489
+644736329	Bacteria	"Bifidobacterium animalis lactis Bl-04, ATCC SD5219"
+644736330	Bacteria	Bifidobacterium animalis lactis DSM 10140
+644736366	Bacteria	Eubacterium eligens ATCC 27750
+644736367	Bacteria	Eubacterium rectale ATCC 33656
+644736374	Bacteria	Helicobacter pylori B38
+644736381	Bacteria	Lactobacillus plantarum JDM1
+644736382	Bacteria	Lactobacillus rhamnosus GG
+644736383	Bacteria	Lactobacillus rhamnosus Lc 705
+645058757	Bacteria	Acinetobacter baumannii AB900
+645058782	Bacteria	Parabacteroides sp. 2_1_7
+645058788	Bacteria	Bacteroides fragilis 3_1_12
+645058793	Bacteria	Weissella paramesenteroides ATCC 33313
+645058833	Bacteria	Fusobacterium nucleatum subsp. animalis D11
+645058835	Bacteria	Escherichia coli D9
+645951804	Bacteria	Fusobacterium gonidiaformans ATCC 25563
+645951831	Bacteria	Faecalibacterium prausnitzii A2-165
+645951834	Bacteria	Butyrivibrio crossotus DSM 2876
+645951835	Bacteria	Hungatella hathewayi DSM 13479
+645951838	Bacteria	Lactobacillus antri DSM 16041
+645951865	Bacteria	Lactobacillus helveticus DSM 20075
+645951866	Bacteria	Fusobacterium gonidiaformans 3-1-5R
+646206250	Bacteria	Oxalobacter formigenes HOxBLS
+646206251	Bacteria	Coprobacillus sp. D7
+646206252	Bacteria	Fusobacterium nucleatum animalis 7_1
+646206253	Bacteria	Fusobacterium nucleatum subsp. vincentii 4_1_13
+646206254	Bacteria	Fusobacterium mortiferum ATCC 9817
+646206255	Bacteria	Helicobacter winghamensis ATCC BAA-430
+646206256	Bacteria	Citrobacter sp. 30_2
+646206258	Bacteria	Bacteroides dorei 5_1_36/D4
+646206259	Bacteria	Escherichia sp. 3_2_53FAA
+646206260	Bacteria	Clostridium sp. 7_2_43FAA
+646206261	Bacteria	Escherichia sp. 1_1_43
+646206262	Bacteria	Fusobacterium periodonticum 2_1_31
+646206263	Bacteria	Bacteroides sp. 9_1_42FAA
+646206264	Bacteria	Bacteroides sp. D1
+646206265	Bacteria	Oxalobacter formigenes OXCC13
+646206266	Bacteria	Bacteroides sp. 2_2_4
+646206269	Bacteria	Acinetobacter junii SH205
+646206272	Bacteria	Bacteroides sp. 1_1_6
+646206274	Bacteria	Bacteroides sp. 4_3_47FAA
+646206275	Bacteria	Fusobacterium varium ATCC 27725
+646206279	Bacteria	Parabacteroides sp. D13
+646311914	Bacteria	Clostridioides difficile CD196
+646311915	Bacteria	Clostridioides difficile R20291
+646311926	Bacteria	"Escherichia coli K-12, MG1655"
+646311946	Bacteria	"Mycoplasma hominis PG21, ATCC 23114"
+646311965	Bacteria	"Veillonella parvula Te3, DSM 2008"
+646564512	Bacteria	Bifidobacterium longum longum JDM301
+646564533	Bacteria	Escherichia coli O55:H7 CB9615
+646862308	Bacteria	Bifidobacterium animalis lactis BB-12
+646862309	Bacteria	Bifidobacterium animalis lactis V9
+646862322	Bacteria	Escherichia coli O44:H18 042 (EAEC)
+646862326	Bacteria	Escherichia coli O18:K1:H7 IHE3034
+646862327	Bacteria	Escherichia coli O150:H5 SE15
+646862330	Bacteria	Helicobacter pylori 51
+646862331	Bacteria	Helicobacter pylori v225
+646862332	Bacteria	Lactobacillus rhamnosus GG
+647000209	Bacteria	Acetomicrobium hydrogeniformans ATCC BAA-1850
+647000212	Bacteria	Bacteroides ovatus SD CC 2a
+647000213	Bacteria	Bacteroides ovatus SD CMC 3f
+647000214	Bacteria	Bacteroides vulgatus PC510
+647000215	Bacteria	Bacteroides xylanisolvens SD CC 1b
+647000227	Bacteria	Clostridioides difficile NAP07
+647000228	Bacteria	Clostridioides difficile NAP08
+647000230	Bacteria	Corynebacterium ammoniagenes DSM 20306
+647000237	Bacteria	Edwardsiella tarda ATCC 23685
+647000238	Bacteria	Enterococcus faecium PC4.1
+647000243	Bacteria	Enterococcus faecium E1071
+647000258	Bacteria	Grimontia hollisae CIP 101886
+647000263	Bacteria	Lactobacillus amylolyticus DSM 11664
+647000330	Bacteria	Turicibacter sanguinis PC909
+647000333	Bacteria	Vibrio cholerae CT 5369-93
+647000334	Bacteria	Vibrio cholerae sv. Inaba INDRE 91/1
+647000335	Bacteria	Vibrio cholerae sv. O1 RC27
+647000337	Bacteria	Vibrio furnissii sv. II CIP 102972
+647000340	Bacteria	Vibrio mimicus MB-451
+647000343	Bacteria	Vibrio sp. RC341
+647533110	Bacteria	Bacteroides sp. 2_1_16
+647533111	Bacteria	Bacteroides sp. 2_1_22
+647533112	Bacteria	Bacteroides sp. 2_1_33B
+647533113	Bacteria	Bacteroides sp. 3_1_33FAA
+647533114	Bacteria	Bacteroides sp. D20
+647533145	Bacteria	"Enterococcus faecalis X98, ATCC 27276"
+647533146	Bacteria	"Enterococcus faecium 1,141,733"
+647533150	Bacteria	"Enterococcus faecium 1,231,501"
+647533153	Bacteria	Enterococcus faecium Com12
+647533154	Bacteria	Enterococcus faecium Com15
+647533168	Bacteria	Fusobacterium periodonticum 1_1_41FAA
+647533173	Bacteria	"Helicobacter canadensis MIT 98-5491, ATCC 700968"
+647533174	Bacteria	Klebsiella sp. 1_1_55
+647533176	Bacteria	Lactobacillus crispatus 125-2-CHN
+647533194	Bacteria	Pediococcus acidilactici 7_4
+647533231	Bacteria	Streptococcus sp. 2_1_36FAA
+647533241	Bacteria	Veillonella sp. 3_1_44
+647533242	Bacteria	Veillonella sp. 6_1_27
+648028025	Bacteria	Escherichia coli O26:H11 11368
+648028031	Bacteria	Helicobacter pylori PeCan4
+648028032	Bacteria	Helicobacter pylori SJM180
+648231701	Bacteria	Campylobacter jejuni jejuni M1
+648231704	Bacteria	Edwardsiella tarda FL6-60
+648231706	Bacteria	Escherichia coli AIEC UM146
+648231708	Bacteria	Helicobacter pylori 908
+648231709	Bacteria	Helicobacter pylori Cuz20
+648231710	Bacteria	Helicobacter pylori Sat464
+648231711	Bacteria	Lactobacillus fermentum CECT 5716
+648231712	Bacteria	Lactobacillus salivarius CECT 5713
+648276627	Bacteria	Campylobacter coli JV20
+648276641	Bacteria	Enterococcus faecalis TX2134
+648276649	Bacteria	Escherichia coli MS 107-1
+648276650	Bacteria	Escherichia coli MS 115-1
+648276651	Bacteria	Escherichia coli MS 116-1
+648276652	Bacteria	Escherichia coli MS 119-7
+648276653	Bacteria	Escherichia coli MS 124-1
+648276654	Bacteria	Escherichia coli MS 146-1
+648276655	Bacteria	Escherichia coli MS 175-1
+648276656	Bacteria	Escherichia coli MS 182-1
+648276657	Bacteria	Escherichia coli MS 185-1
+648276658	Bacteria	Escherichia coli MS 187-1
+648276659	Bacteria	Escherichia coli MS 196-1
+648276660	Bacteria	Escherichia coli MS 198-1
+648276661	Bacteria	Escherichia coli MS 200-1
+648276662	Bacteria	Escherichia coli MS 21-1
+648276663	Bacteria	Escherichia coli MS 45-1
+648276664	Bacteria	Escherichia coli MS 69-1
+648276665	Bacteria	Escherichia coli MS 78-1
+648276666	Bacteria	Escherichia coli MS 84-1
+648861000	Bacteria	Bacteroides sp. 1_1_14
+648861001	Bacteria	Parabacteroides sp. 20_3
+648861002	Bacteria	Bacteroides sp. 3_1_19
+648861003	Bacteria	Bacteroides sp. 3_1_23
+648861004	Bacteria	Bacteroides sp. D22
+648861006	Bacteria	Burkholderiales bacterium 1_1_47
+649633015	Bacteria	Bifidobacterium bifidum PRL2010
+649633016	Bacteria	Bifidobacterium bifidum S17
+649633017	Bacteria	Bifidobacterium longum infantis 157F-NC
+649633018	Bacteria	Bifidobacterium longum longum BBMN68
+649633019	Bacteria	Bifidobacterium longum longum JCM 1217
+649633027	Bacteria	Campylobacter jejuni jejuni ICDCCJ07001
+649633055	Bacteria	Helicobacter pylori B8
+649633062	Bacteria	Lactobacillus delbrueckii bulgaricus ND02
+649633078	Bacteria	"Odoribacter splanchnicus 1651/6, DSM 20712"
+649989907	Bacteria	Anaerostipes sp. 3_2_56FAA
+649989908	Bacteria	Arcobacter butzleri JV22
+649989912	Bacteria	Bacteroides eggerthii 1_2_48FAA
+649989913	Bacteria	Bacteroides sp. 3_1_40A
+649989914	Bacteria	Bacteroides sp. 4_1_36
+649989916	Bacteria	Bifidobacterium sp. 12_1_47BFAA
+649989919	Bacteria	Campylobacter upsaliensis JV21
+649989921	Bacteria	Clostridium sp. HGF2
+649989922	Bacteria	Clostridium symbiosum WAL-14163
+649989923	Bacteria	Clostridium symbiosum WAL-14673
+649989924	Bacteria	Coprobacillus sp. 29_1
+649989930	Bacteria	Eggerthella sp. 1_3_56FAA
+649989945	Bacteria	Erysipelotrichaceae bacterium sp. 3_1_53
+649989948	Bacteria	Escherichia coli MS 145-7
+649989951	Bacteria	Faecalibacterium cf. prausnitzii KLE1255
+649989957	Bacteria	Lachnospiraceae bacterium sp. 5_1_63FAA
+649989958	Bacteria	Lachnospiraceae bacterium sp. 8_1_57FAA
+649989981	Bacteria	Pediococcus acidilactici DSM 20284
+649989983	Bacteria	Phascolarctobacterium succinatutens YIT 12067
+649989989	Bacteria	Prevotella salivae DSM 15606
+649989994	Bacteria	Ralstonia sp. 5_7_47FAA
+649990001	Bacteria	Streptococcus anginosus 1_2_62CV
+649990006	Bacteria	Streptococcus equinus ATCC 9812
+649990019	Bacteria	Succinatimonas hippei YIT 12066
+649990021	Bacteria	Sutterella wadsworthensis 3_1_45B
+650377904	Bacteria	Alistipes shahii WAL 8301
+650377910	Bacteria	Bacteroides fragilis 638R
+650377911	Bacteria	Bacteroides xylanisolvens XB1A
+650377912	Bacteria	Bifidobacterium longum longum F8
+650377919	Bacteria	Butyrivibrio fibrisolvens 16/4
+650377923	Bacteria	Clostridium cf. saccharolyticum K10
+650377925	Bacteria	Coprococcus catus GD/7
+650377928	Bacteria	Enterobacter cloacae cloacae NCTC 9394
+650377929	Bacteria	Enterococcus faecalis 62
+650377930	Bacteria	Enterococcus sp. 7L76
+650377935	Bacteria	Faecalitalea cylindroides T2-87
+650377936	Bacteria	Eubacterium rectale DSM 17629
+650377937	Bacteria	Eubacterium rectale M104/1
+650377938	Bacteria	Eubacterium siraeum 70/3
+650377940	Bacteria	Faecalibacterium prausnitzii SL3/3
+650377941	Bacteria	Faecalibacterium prausnitzii L2-6
+650377943	Bacteria	"Gordonibacter pamelaeae 7-10-1-bT, DSM 19378"
+650377949	Bacteria	Helicobacter pylori Gambia94/24
+650377950	Bacteria	Helicobacter pylori India7
+650377951	Bacteria	Helicobacter pylori Lithuania75
+650377952	Bacteria	Helicobacter pylori SouthAfrica7
+650377954	Bacteria	Lactobacillus delbrueckii bulgaricus 2038
+650377957	Bacteria	Listeria monocytogenes sv. 4a L99
+650377958	Bacteria	Megamonas hypermegale ART12/1
+650377964	Bacteria	Roseburia intestinalis M50/1
+650377965	Bacteria	Roseburia intestinalis XB6B4
+650377966	Bacteria	Ruminococcus bromii L2-63
+650377967	Bacteria	Blautia obeum A2-162
+650377968	Bacteria	Ruminococcus sp. SR1/5
+650377969	Bacteria	Ruminococcus sp. 18P13
+650377970	Bacteria	Ruminococcus torques L2-14
+650377984	Bacteria	"Vibrio furnissii 2510/74, NCTC 11218"
+650377989	Bacteria	Clostridiales sp. SS3/4
+650377990	Bacteria	Anaerostipes hadrus SSC/2
+650633000	Bacteria	Victivallis vadensis ATCC BAA-548
+650716027	Bacteria	Clostridium sp. SY8519
+650716034	Bacteria	Eggerthella sp. YY7918
+650716041	Bacteria	Helicobacter bizzozeronii CIII-1
+650716048	Bacteria	"Lactobacillus reuteri SD2112, ATCC 55730"
+650716072	Bacteria	Porphyromonas gingivalis TDC60
+651053004	Bacteria	Bifidobacterium animalis lactis CNCM I-2494
+651053006	Bacteria	Bifidobacterium breve UCC2003 (NCIMB8807)
+651053007	Bacteria	Bifidobacterium longum infantis JCM 1222
+651053020	Bacteria	Escherichia coli DH1 (ME8569)
+651053021	Bacteria	Escherichia coli LF82
+651053029	Bacteria	Helicobacter pylori 2017
+651053030	Bacteria	Helicobacter pylori 2018
+651053031	Bacteria	Helicobacter pylori 83
+651053032	Bacteria	Helicobacter pylori F16
+651053033	Bacteria	Helicobacter pylori F30
+651053034	Bacteria	Helicobacter pylori F32
+651053035	Bacteria	Helicobacter pylori F57
+651053040	Bacteria	Lactobacillus johnsonii DPC 6026
+651053079	Bacteria	Yersinia enterocolitica palearctica sv. O:3 bt. 4 Y11
+651285002	Bacteria	Clostridium sp. D5
+651324010	Bacteria	Bacteroides clarus YIT 12056
+651324011	Bacteria	Bacteroides fluxus YIT 12057
+651324012	Bacteria	Bacteroides ovatus 3_8_47FAA
+651324013	Bacteria	Bacteroides sp. 1_1_30
+651324014	Bacteria	Bacteroides sp. 2_1_56FAA
+651324027	Bacteria	Dysgonomonas mossii DSM 22836
+651324028	Bacteria	Eggerthella sp. HGA1
+651324032	Bacteria	Fusobacterium nucleatum subsp. animalis 11_3_2
+651324045	Bacteria	Klebsiella sp. MS 92-3
+651324046	Bacteria	Lachnospiraceae bacterium 1_1_57FAA
+651324047	Bacteria	Lachnospiraceae bacterium 1_4_56FAA
+651324049	Bacteria	Lachnospiraceae bacterium 2_1_58FAA
+651324050	Bacteria	Lachnospiraceae bacterium 3_1_46FAA
+651324052	Bacteria	Lachnospiraceae bacterium 6_1_37FAA
+651324053	Bacteria	Lachnospiraceae bacterium 5_1_57FAA
+651324054	Bacteria	Lachnospiraceae bacterium 6_1_63FAA
+651324055	Bacteria	Lachnospiraceae bacterium 9_1_43BFAA
+651324058	Bacteria	Lactobacillus coryniformis coryniformis KCTC 3167
+651324059	Bacteria	"Lactobacillus coryniformis torquens 30, KCTC 3535"
+651324061	Bacteria	"Lactobacillus fructivorans W2, KCTC 3543"
+651324075	Bacteria	Neisseria macacae ATCC 33926
+651324080	Bacteria	Paenibacillus sp. HGF5
+651324081	Bacteria	Paenibacillus sp. HGF7
+651324083	Bacteria	Paraprevotella xylaniphila YIT 11841
+651324084	Bacteria	Parasutterella excrementihominis YIT 11859
+651324107	Bacteria	Turicibacter sp. HGF1
+2500069000	Bacteria	Lactobacillus reuteri 100-23
+2502171173	Bacteria	Lactobacillus reuteri CF48-3A (Improved draft)
+2511231071	Bacteria	Megasphaera elsdenii DSM 20460
+2511231106	Bacteria	Acidaminococcus intestini RyC-MR95
+2511231128	Bacteria	"Roseburia hominis A2-183, DSM 16839"
+2511231133	Bacteria	"Enterococcus faecalis OG1RF, ATCC 47077"
+2511231147	Bacteria	Helicobacter pylori Puno135
+2511231165	Bacteria	Pseudomonas aeruginosa NCGM2.S1
+2511231168	Bacteria	Helicobacter pylori 35A
+2511231174	Bacteria	Listeria monocytogenes sv. 1/2a 10403S
+2511231184	Bacteria	Listeria monocytogenes FSL R2-561
+2511231190	Bacteria	Listeria monocytogenes sv. 1/2a J0161
+2511231203	Bacteria	Listeria monocytogenes Finland 1988
+2511231216	Bacteria	Helicobacter pylori Puno120
+2512047053	Bacteria	Alistipes sp. HGB5
+2512564028	Bacteria	Vibrio cholerae IEC224
+2513237167	Bacteria	Bifidobacterium breve SC95
+2513237168	Bacteria	Bifidobacterium longum infantis SC142
+2513237169	Bacteria	Bifidobacterium breve SC154
+2513237170	Bacteria	Bifidobacterium bifidum SC555
+2513237171	Bacteria	Bifidobacterium longum longum SC596
+2513237172	Bacteria	Bifidobacterium longum longum SC664
+2513237188	Bacteria	Helicobacter pylori Shi112
+2513237192	Bacteria	Helicobacter pylori Shi169
+2513237203	Bacteria	Helicobacter pylori Shi417
+2513237210	Bacteria	Helicobacter pylori PeCan18
+2513237259	Bacteria	Pseudomonas sp. 2_1_26
+2513237265	Bacteria	Klebsiella sp. 4_1_44FAA
+2513237266	Bacteria	Citrobacter freundii 4_7_47CFAA
+2513237267	Bacteria	Tannerella sp. 6_1_58FAA_CT1
+2513237275	Bacteria	Hungatella hathewayi WAL-18680
+2513237277	Bacteria	Alistipes indistinctus YIT 12060
+2513237280	Bacteria	Odoribacter laneus YIT 12061
+2513237287	Bacteria	Flavonifractor plautii ATCC 29863
+2513237298	Bacteria	Campylobacter sp. 10_1_50
+2513237299	Bacteria	Synergistes sp. 3_1_syn1
+2513237311	Bacteria	Subdoligranulum sp. 4_3_54A2FAA
+2513237314	Bacteria	Enterococcus saccharolyticus 30_1
+2513237315	Bacteria	Clostridium clostridioforme 2_1_49FAA
+2513237318	Bacteria	Prevotella stercorea DSM 18206
+2513237319	Bacteria	Enterococcus faecalis PC1.1
+2513237322	Bacteria	Bilophila sp. 4_1_30
+2513237324	Bacteria	Desulfovibrio sp. 6_1_46AFAA
+2513237325	Bacteria	Bacillus sp. 7_6_55CFAA_CT2
+2513237329	Bacteria	Lachnospiraceae bacterium sp. 7_1_58FAA
+2513237330	Bacteria	Fusobacterium necrophorum funduliforme 1_1_36S
+2513237332	Bacteria	Erysipelotrichaceae bacterium sp. 21_3
+2513237343	Bacteria	Dorea formicigenerans 4_6_53AFAA
+2513237344	Bacteria	Collinsella tanakaei YIT 12063
+2513237345	Bacteria	Erysipelotrichaceae sp. 2_2_44A
+2513237348	Bacteria	Eubacterium sp. 3_1_31
+2513237349	Bacteria	Dialister succinatiphilus YIT 11850
+2513237360	Bacteria	Clostridium citroniae WAL-17108
+2513237364	Bacteria	Coprobacillus sp. 8_2_54BFAA
+2513237367	Bacteria	Clostridium sp. 7_3_54FAA
+2513237371	Bacteria	Sutterella parvirubra YIT 11816
+2513237376	Bacteria	Coprobacillus sp. 3_3_56FAA
+2513237377	Bacteria	Hafnia alvei ATCC 51873
+2513237385	Bacteria	Bacillus smithii 7_3_47FAA
+2513237388	Bacteria	Propionibacterium sp. 5_U_42AFAA
+2513237390	Bacteria	Paraprevotella clara YIT 11840
+2513237395	Bacteria	Lactobacillus sp. 7_1_47FAA
+2513237399	Bacteria	Megamonas funiformis YIT 11815
+2515154063	Bacteria	Bacteroides thetaiotaomicron NLAE-zl-H207
+2515154064	Bacteria	Bacteroides ovatus NLAE-zl-H304
+2515154065	Bacteria	Bacteroides ovatus NLAE-zl-H361
+2515154066	Bacteria	Bacteroides thetaiotaomicron NLAE-zl-H463
+2515154067	Bacteria	Bacteroides thetaiotaomicron NLAE-zl-H492
+2515154176	Bacteria	Blautia producta ATCC 27340
+2516143090	Bacteria	Campylobacter jejuni jejuni LMG 9081
+2518285605	Bacteria	Vibrio cholerae sv. O1 Ogava P-18785
+2519899572	Bacteria	Bacillus alcalophilus ATCC 27647
+2519899591	Bacteria	Bifidobacterium bifidum IF10/10
+2522572064	Bacteria	Desulfitobacterium hafniense DP7 (draft 151 contigs)
+2522572151	Bacteria	Bifidobacterium longum D2957
+2524023161	Bacteria	Blautia producta DSM 2950
+2524023202	Bacteria	Clostridium celatum DSM 1785
+2524614654	Bacteria	Solobacterium moorei DSM 22971
+2524614760	Bacteria	Leminorella grimontii DSM 5078
+2526164609	Bacteria	Shigella dysenteriae 225-75
+2526164646	Bacteria	Shigella flexneri 6603-63
+2526164649	Bacteria	Shigella flexneri 2850-71
+2526164719	Bacteria	Bifidobacterium bifidum BGN4
+2528768167	Bacteria	Blautia wexlerae DSM 19850
+2529292915	Bacteria	Aeromonas veronii AMC34
+2529292917	Bacteria	Aeromonas hydrophila SSU
+2529292932	Bacteria	Barnesiella intestinihominis YIT 11860
+2529292933	Bacteria	Slackia piriformis YIT 12062
+2531839190	Bacteria	Bifidobacterium animalis animalis lactis BS 01
+2531839268	Bacteria	Erysipelotrichaceae bacterium sp. 6_1_45
+2531839653	Bacteria	Morganella morganii SC01
+2534681714	Bacteria	"Anaerostipes hadrus comb. nov. VPI 82-52, DSM 3319"
+2534681837	Bacteria	Bacteroides oleiciplenus YIT 12058
+2534681855	Bacteria	Lactobacillus rhamnosus ATCC 21052
+2534682241	Bacteria	Yokenella regensburgei ATCC 43003
+2537561540	Bacteria	Listeria innocua ATCC 33091
+2537561695	Bacteria	Clostridioides difficile 70-100-2010
+2537561731	Bacteria	Butyricicoccus pullicaecorum 1.2
+2537561746	Bacteria	Enterococcus sp. GMD1E
+2537561747	Bacteria	Enterococcus sp. GMD2E
+2537561748	Bacteria	Enterococcus sp. GMD3E
+2537561749	Bacteria	Enterococcus sp. GMD4E
+2537561802	Bacteria	Vibrio cholerae O1 PCS-023
+2537561919	Bacteria	Clostridium perfringens WAL-14572
+2541046972	Bacteria	"Cedecea davisae 005, DSM 4568"
+2541047090	Bacteria	Bifidobacterium bifidum ATCC 29521
+2541047449	Bacteria	Enterococcus avium ATCC 14025
+2541047504	Bacteria	Blautia sp. KLE 1732
+2541047533	Bacteria	Vibrio parahaemolyticus NIHCB0603
+2545824675	Bacteria	Clostridium butyricum DKU-01
+2545824689	Bacteria	Megasphaera sp. NM10
+2545824774	Bacteria	Megasphaera sp. BL7
+2546825515	Bacteria	Enterococcus faecalis D1 (ENT11)
+2546825518	Bacteria	Enterococcus faecalis 12030 (ENT15)
+2547132035	Bacteria	Coprobacillus sp. D6
+2547132044	Bacteria	Campylobacter jejuni jejuni H22082
+2547132112	Bacteria	Bifidobacterium breve DPC 6330
+2547132115	Bacteria	Metakosakonia massiliensis JC163
+2547132124	Bacteria	Alistipes senegalensis JC50
+2547132133	Bacteria	Alistipes timonensis JC136
+2547132134	Bacteria	Anaerococcus senegalensis JC48
+2547132135	Bacteria	Peptoniphilus senegalensis JC140
+2547132136	Bacteria	Brevibacterium senegalense JC43
+2547132137	Bacteria	Kurthia massiliensis JC30
+2547132138	Bacteria	Bacillus timonensis MM10403188
+2547132139	Bacteria	Paenibacillus senegalensis JC66
+2547132147	Bacteria	Dielma fastidiosa JC118
+2547132148	Bacteria	Senegalimassilia anaerobia JC110
+2547132149	Bacteria	Anaerococcus vaginalis PH9
+2547132150	Bacteria	Peptoniphilus grossensis ph5
+2547132151	Bacteria	Brevibacillus massiliensis phR
+2547132152	Bacteria	Enorma massiliensis phI
+2547132153	Bacteria	Alistipes obesi ph8
+2547132154	Bacteria	Cellulomonas massiliensis JC225
+2547132155	Bacteria	Timonella senegalensis JC301
+2547132156	Bacteria	Noviherbaspirillum massiliense JC206
+2547132161	Bacteria	Bacillus massiliosenegalensis JC6
+2547132168	Bacteria	Bacillus massilioanorexius AP8
+2547132182	Bacteria	Megasphaera massiliensis NP3
+2547132194	Bacteria	Peptoniphilus obesi ph1
+2547132195	Bacteria	Kallipyga massiliensis ph2
+2547132207	Bacteria	Edwardsiella tarda ATCC 15947
+2548876788	Bacteria	Bacteroides faecis MAJ27
+2548876846	Bacteria	Salmonella enterica enterica sv. Typhimurium ST1660/06
+2548876979	Bacteria	Ruminococcus sp. JC304
+2548877057	Bacteria	Salmonella enterica enterica sv. Typhi ST0208
+2551306369	Bacteria	Holdemania massiliensis AP2
+2551306464	Bacteria	Proteus mirabilis C05028
+2551306478	Bacteria	Aeromonas sp. 159
+2554235044	Bacteria	Campylobacter jejuni BJ-CJD101
+2554235108	Bacteria	Enterococcus raffinosus cftri2200
+2554235158	Bacteria	Streptococcus agalactiae GBS10
+2554235194	Bacteria	Serratia marcescens MC460
+2554235198	Bacteria	Serratia marcescens MC459
+2554235199	Bacteria	Serratia marcescens MC458
+2554235201	Bacteria	Serratia marcescens MC620
+2558309115	Bacteria	Bacteroides sp. 3_2_5
+2558860278	Bacteria	Cetobacterium somerae ATCC BAA-474
+2558860279	Bacteria	Faecalitalea cylindroides ATCC 27803
+2558860945	Bacteria	Enterococcus faecalis 12030
+2561511119	Bacteria	Lactobacillus gasseri K7 (Improved draft version of genome Lactobacillus gasseri K7)
+2562617078	Bacteria	Subdoligranulum variabile DSM 15176
+2562617079	Bacteria	Clostridium sp M62/1
+2562617093	Bacteria	Citrobacter youngae ATCC 29220
+2562617096	Bacteria	"Blautia hansenii VPI C7-24, DSM 20583"
+2562617097	Bacteria	Providencia rettgeri DSM 1131
+2562617098	Bacteria	Ralstonia sp. 5_2_56FAA
+2562617142	Bacteria	Bacteroides finegoldii DSM 17565
+2562617146	Bacteria	Collinsella intestinalis DSM 13280
+2562617148	Bacteria	Enterobacter cancerogenus ATCC 35316
+2562617155	Bacteria	Helicobacter bilis ATCC 43879
+2562617157	Bacteria	Listeria grayi DSM 20601
+2562617158	Bacteria	Mitsuokella multacida DSM 20544
+2562617159	Bacteria	Roseburia intestinalis L1-82
+2562617166	Bacteria	"Prevotella copri CB7, DSM 18205"
+2562617173	Bacteria	Bacteroides sp. D2
+2562617176	Bacteria	Bilophila wadsworthia 3_1_6
+2562617188	Bacteria	Lachnospiraceae bacterium 3_1_57FAA_CT1
+2563366727	Bacteria	Clostridium saccharogumia DSM 17460
+2563366762	Bacteria	Aneurinibacillus aneurinilyticus ATCC 12856
+2563367067	Bacteria	Enterococcus faecalis EnGen0334 D1
+2565956545	Bacteria	Coprococcus sp. ART55/1
+2565956546	Bacteria	Eubacterium siraeum V10Sc8a
+2565956637	Bacteria	Clostridium botulinum 84
+2565956817	Bacteria	Klebsiella pneumoniae RYC492
+2579778985	Bacteria	Vibrio cholerae sv. O1 bv. El Tor Inaba RND18826
+2585428044	Bacteria	Lactonifactor longoviformis DSM 17459
+2588253729	Bacteria	Porphyromonas sp. 31_2
+2588253744	Bacteria	Bifidobacterium breve JCM 7019
+2588253788	Bacteria	"Hafnia alvei Stuart 32011, ATCC 13337"
+2588253796	Bacteria	Leminorella grimontii ATCC 33999
+2597489878	Bacteria	Clostridium orbiscindens 1_3_50AFAA
+2597489879	Bacteria	Collinsella sp. 4_8_47FAA
+2597489894	Bacteria	Clostridium senegalense JC122
+2597489914	Bacteria	Adlercreutzia equolifaciens DSM 19450
+2597490297	Bacteria	Ruminococcus callidus ATCC 27760
+2597490298	Bacteria	Clostridium symbiosum ATCC 14940
+2597490299	Bacteria	Clostridium sp. ATCC BAA-442
+2597490300	Bacteria	"Eubacterium ramulus VPI C6-27, ATCC 29099"
+2597490301	Bacteria	Lactobacillus brevis ATCC 14869
+2599185228	Bacteria	Marvinbryantia formatexigens I-52
+2600254992	Bacteria	Clostridium sp. VPI C48-50
+2600255040	Bacteria	Oscillibacter sp. KLE 1728
+2600255041	Bacteria	Oscillibacter sp. KLE 1745
+2600255042	Bacteria	Clostridium sp. KLE 1755
+2600255061	Bacteria	Clostridium ihumii AP5
+2600255085	Bacteria	Bacteroides timonensis AP1
+2602041909	Bacteria	Escherichia albertii GTC 14781
+2602042044	Bacteria	Clostridium bolteae WAL-14578 JGI Assembly and Annotation
+2619619241	Bacteria	Clostridium saudiense JCC
+2627853716	Bacteria	Bifidobacterium longum longum CECT 7347
+2636415718	Bacteria	Parabacteroides sp. D26
+2636415767	Bacteria	Clostridium citroniae WAL-19142
+2636415786	Bacteria	Coprobacillus sp. 8_1_38FAA
+2636416159	Bacteria	Aeromicrobium massiliense JC14
+2639762926	Bacteria	Dorea sp. D27
+2648501653	Bacteria	Bacillus cereus 6/27/S
+2648501893	Bacteria	Clostridium clostridioforme WAL-7855
+2654587777	Bacteria	Eubacterium sp. 3_1_31
+2654587845	Bacteria	Bifidobacterium bifidum NCIMB 41171
+2667527550	Bacteria	Intestinimonas butyriciproducens AF211
+2671180278	Bacteria	Streptococcus gallolyticus ICDDRB-NRC-S3
+2671180477	Bacteria	Numidum massiliense mt3
+2671180656	Bacteria	Escherichia coli STEC 771
+2671180761	Bacteria	Lactobacillus reuteri DSM 20016
+2671180992	Bacteria	Streptococcus equinus ICDDRB-NRC-S6
+2681812983	Bacteria	Vibrio fluvialis NBRC 103150
+2684623200	Bacteria	Bacteroides ovatus ATCC 8483
+2687453147	Bacteria	"Campylobacter hyointestinalis hyointestinalis HG K169, LMG 9260"
+2687453156	Bacteria	Streptococcus gallolyticus ICDDRB-NRC-S1
+2687453575	Bacteria	Streptococcus infantarius ICDDRB-NRC-S5
+2693429916	Bacteria	Bacteroides faecis DSM 24798
+2695420967	Bacteria	Bacteroides clarus DSM 22519
+2698536368	Bacteria	Shigella sonnei 19904011_1361399
+2700989373	Bacteria	Bifidobacterium angulatum DSM 20098
+2718218027	Bacteria	Citrobacter amalonaticus FDAARGOS_165
+2718218443	Bacteria	Citrobacter sp. FDAARGOS_155
+2718218460	Bacteria	Clostridium perfringens FORC_025
+2721755583	Bacteria	Hafnia alvei FDAARGOS_158
+2721755650	Bacteria	Klebsiella pneumoniae TH1
+2740892378	Bacteria	Intestinimonas butyriciproducens ER1
+2751185956	Bacteria	Shigella sp. FC2045
+2751185957	Bacteria	Shigella sp. FC1882
+2751185958	Bacteria	Shigella sp. FC1661
+2751185961	Bacteria	Shigella sp. FC569
+2751185966	Bacteria	Shigella sp. FC1967
+2751185967	Bacteria	Shigella sp. FC1737
+2751185969	Bacteria	Shigella sp. FC2928
+2751185970	Bacteria	Shigella sp. FC1764
+2751185971	Bacteria	Shigella sp. FC1708
+2751185972	Bacteria	Shigella sp. FC2833
+2751185973	Bacteria	Shigella sp. FC2383
+2751185978	Bacteria	Clostridium septicum P1044
+2756170247	Bacteria	Intestinimonas butyriciproducens DSM 26588
+2757320918	Bacteria	Butyricicoccus sp. K4410.MGS-46
+2758568022	Bacteria	Parabacteroides sp. CT06
+638208603	Eukaryota	Candida glabrata CBS 138
+640281014	Eukaryota	Cryptosporidium hominis TU502
