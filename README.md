@@ -6,7 +6,7 @@ Atashgahi-et-al.-XenobioticReview2018
 project folder:
 ```
 Atashgahi-et-al.-XenobioticReview2018/
-|------- Genome/    # contains list of genomes used for analysis.    
+|------- Genomes/    # contains list of genomes used for analysis.    
           |------- "genome_results_EC_hits.txt" # file with hits for genes searched in IMG/ER.  
           |------- "genomecart_export.txt" # List of genomes used. Upload to IMG/ER as genome cart.  
           |------- "genome_taxonomy.txt" # Metadata on genomes used here.  
