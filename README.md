@@ -21,3 +21,4 @@ Atashgahi-et-al.-XenobioticReview2018/
 |------- Supplemantary_code_Figure_4_XXXXXXXXXXX_2018.pdf # RMarkdown file knited as pdf.  
 
 ```
+Download the folder, unzip and open the .rmd file in R and run the analysis. 
