@@ -1,10 +1,18 @@
-# Atashgahi-et-al.-XenobioticReview2018
+
+Study title: Flux, Impact, and Fate of Halogenated Xenobiotic Compounds in the Gut  
+----------------------------------------------------------------------------------  
+
+Authors: Atashgahi S, Shetty SA, Smidt H and de Vos WM  
+Correspondence: WMdV (willem.devos[at]wur.nl)  
+For code related queries: SAS (sudarshan.shetty[at]wur.nl) 
+
 This repository contains codes for analysis done in the review article by Atashgahi S., et al (2018) Flux, impact and fate of halogenated xenobiotic compounds in the gut.  _Front. Physiol. - Gastrointestinal Sciences_. [Link](https://www.frontiersin.org/articles/10.3389/fphys.2018.00888/abstract).  
 
 Structure:  
 Atashgahi-et-al.-XenobioticReview2018  
 project folder:
 ```
+Structure:  
 Atashgahi-et-al.-XenobioticReview2018/
 |------- Genomes/    # contains list of genomes used for analysis.    
           |------- "genome_results_EC_hits.txt" # file with hits for genes searched in IMG/ER.  
