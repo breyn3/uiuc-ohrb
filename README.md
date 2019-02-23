@@ -26,7 +26,7 @@ Atashgahi-et-al.-XenobioticReview2018/
           
 |------- Figure 4 XXXXXXXXXXXX.Rmd # RMarkdown file with stepwise codes to generate figure 4.
 |------- IMG_Search.Rproj # The Rproject file.  
-|------- Supplemantary_code_Figure_4_XXXXXXXXXXX_2018.pdf # RMarkdown file knited as pdf.  
+|------- Supplemantary_code_Figure_4_Frontiers_in_Physiology_2018.pdf # RMarkdown file knited as pdf.  
 
 ```
 Clone or download the repository as zipped file, unzip and open the .rmd file in R to re-run the analysis. 
