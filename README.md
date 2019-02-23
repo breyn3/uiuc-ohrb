@@ -24,7 +24,7 @@ Atashgahi-et-al.-XenobioticReview2018/
           |------- "metagenomes_EC_counts_254.txt" # file with hits for genes searched in IMG/ER.
           |------- "metagenomes_export_254.txt" # List of human gut genomes used. Upload to IMG/ER as genome cart.
           
-|------- Figure 4 XXXXXXXXXXXX.Rmd # RMarkdown file with stepwise codes to generate figure 4.
+|------- Figure 4 Frontiers in Physiology 2018.Rmd # RMarkdown file with stepwise codes to generate figure 4.
 |------- IMG_Search.Rproj # The Rproject file.  
 |------- Supplemantary_code_Figure_4_Frontiers_in_Physiology_2018.pdf # RMarkdown file knited as pdf.  
 
